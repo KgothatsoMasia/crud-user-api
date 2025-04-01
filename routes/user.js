@@ -6,7 +6,7 @@ import
     editUserInfo,
     locateUser,
     removeUser 
-} from "../controllers/user.controller";
+} from "../controllers/user.controller.js";
 
 
 const userRouter = Router();
